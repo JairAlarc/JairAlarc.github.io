@@ -42,6 +42,7 @@ Un proyecto integral donde apliqué diversas técnicas de análisis de datos y m
 
 - **Correo**: alarconjair@outlook.com
 - **LinkedIn**: [Jair Alfonso Alarcón Joya](https://www.linkedin.com/in/jair-alfonso-alarcon-joya-71330926a)
+- **Credly**: [Jair Alfonso Alarcón Joya](https://www.credly.com/users/jair-alarcon/edit)
 - **Numero**: +57 3504039902
 
 Gracias por visitar mi repositorio. Espero que encuentres interesante mi trabajo y que podamos colaborar en proyectos futuros.
